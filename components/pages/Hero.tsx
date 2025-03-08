@@ -45,12 +45,14 @@ function Hero() {
         </MotionDiv>
 
         <MotionH1 className="text-6xl" {...slideInFromLeft(0.5)}>
-          Hi, <span className="text-gradient font-bold">I&apos;m Matthew.</span>
+          Hi, <span className="text-gradient font-bold">I&apos; KOA.</span>
         </MotionH1>
 
         <MotionP className="text-gray-400 max-w-md" {...slideInFromLeft(0.75)}>
           I&apos;m a full stack web developer specializing in React and Next.js.
-          I love coding, IT, helping others and swimming! 🙂
+          🔒 Passionate about blockchain technology 🚀 Future blockchain
+          developer 📜 Smart contracts | 🌍 DApps | ⚙️ Ethereum ecosystem I love
+          coding, IT, helping others and swimming! 🙂
         </MotionP>
 
         <MotionDiv {...slideInFromLeft(1)}>

@@ -1,13 +1,12 @@
-export const GITHUB_PROFILE_URL = "https://github.com/MuchaSsak";
+export const GITHUB_PROFILE_URL = "https://github.com/Khoa-Dam";
 export const GITHUB_AVATAR_URL =
-  "https://avatars.githubusercontent.com/u/107958275?v=4";
-export const LINKEDIN_PROFILE_URL =
-  "https://uk.linkedin.com/in/mateusz-muszarski-b1168a28a";
-export const CONTACT_EMAIL = "mat.muszarski@gmail.com";
+  "https://avatars.githubusercontent.com/u/163499214?s=400&u=81d48cdadf4c1b76cf6381f225727b92d3a563e1&v=4";
+export const LINKEDIN_PROFILE_URL = "https://www.linkedin.com/in/koa73/";
+export const CONTACT_EMAIL = "damngockhoa0703@gmail.com";
 
-export const EMAILJS_PUBLIC_KEY = "Unh7wKuX7D61UVGOX";
-export const EMAILJS_SERVICE_ID = "service_dxoxave";
-export const EMAILJS_TEMPLATE_ID = "template_4e3jgyp";
+export const EMAILJS_PUBLIC_KEY = "xT5J5YgEbpHJH6AER";
+export const EMAILJS_SERVICE_ID = "service_z2cb4ih";
+export const EMAILJS_TEMPLATE_ID = "template_xmyaif8";
 
 export const SKILLS_LIST = [
   {
